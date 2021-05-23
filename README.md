@@ -1,7 +1,7 @@
 :wave: Hi, I’m @zorroartico or Hyun Su :maple_leaf:
 
 Brief points about me:
-- My interests: Human Factors Engineering (HFE) & Geospatial Analysis (GIS)
+- My interests: Aviation, Human Factors Engineering (HFE), Geospatial Analysis (GIS)
 - My Skills
   - Computer: Python, R, HTML, CSS
   - GIS: QGIS
