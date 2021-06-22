@@ -9,7 +9,7 @@ Brief points about me:
 - I’m looking to collaborate on: cognitive task analysis, geospatial analysis
 - How to reach me: Here or [LinkedIn](https://www.linkedin.com/in/hyun-su-winfred-seong-mes-545bb467/)
 
-Check my work portfolio here: [zorroartico projects](https://zorroartico.github.io/zorroartico-projects/)
+Check my work portfolio here: TBD!
 
 <!---
 zorroartico/zorroartico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
