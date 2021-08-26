@@ -9,7 +9,7 @@ Brief points about me:
 - I’m looking to collaborate on: cognitive task analysis, geospatial analysis
 - How to reach me: Here or [LinkedIn](https://www.linkedin.com/in/hyun-su-winfred-seong-mes-545bb467/)
 
-Check my blog here: TBD
+Check my blog about hurricanes: [HSS Library of Hurricanes](https://zorroartico.github.io/hsslotc/index.html)
 
 <!---
 zorroartico/zorroartico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
