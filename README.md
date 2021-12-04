@@ -11,6 +11,12 @@ Brief points about me:
 
 Check out my blog: TBD
 
+Where you can find me:
+- LinkedIn
+- Well, here.
+
+* I do not have twitter or facebook.
+
 <!---
 zorroartico/zorroartico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
