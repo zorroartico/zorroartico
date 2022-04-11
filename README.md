@@ -9,7 +9,7 @@ Brief points about me:
 - I’m looking to collaborate on: cognitive task analysis, geospatial analysis
 - How to reach me: Here or [LinkedIn](https://www.linkedin.com/in/hyun-su-winfred-seong-mes-545bb467/)
 
-Check out my blog: TBD
+My PhD research page: https://zorroartico.github.io/
 
 Where you can find me:
 - LinkedIn
