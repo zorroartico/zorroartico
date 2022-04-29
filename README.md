@@ -1,18 +1,8 @@
 :wave: Hi, I’m @zorroartico or Hyun Su :maple_leaf:
 
-Brief points about me:
-- My Skills
-  - Computer: Python, R, HTML, CSS, Javascript, PHP
-  - GIS: QGIS
-  - HFE: Cognitive Engineering & Task Analysis, Statistics
-- Hobbies: Vexillology, Heraldry
 - How to reach me: Here or [LinkedIn](https://www.linkedin.com/in/hyun-su-winfred-seong-mes-545bb467/)
 
 My PhD research page: https://zorroartico.github.io/
-
-Where you can find me:
-- LinkedIn
-- Well, here.
 
 * I do not have twitter or facebook.
 
